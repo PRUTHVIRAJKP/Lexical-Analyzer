@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{   
+    int a = 33;
+    int arr[4];
+    char ch='\n';
+    printf("pruthvi\n");               //comment line
+    printf("Hello World\n")          
+    return 0;
+}
+
+
